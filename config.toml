@@ -1,0 +1,7 @@
+base_url = "https://mail.guif.dev"
+title = "Email contact"
+
+[extra]
+background_color = "#454441"
+foreground_color = "#cccccc"
+link_color = "#4a9df8"
